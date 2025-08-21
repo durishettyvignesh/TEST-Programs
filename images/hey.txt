@@ -1,0 +1,3 @@
+this folder is dedicated to store screenshots of git commits and pushes that were dont to test the repository 
+
+**Thank you for visiting this repository**
