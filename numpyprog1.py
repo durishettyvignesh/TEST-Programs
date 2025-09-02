@@ -4,3 +4,11 @@ print(arr)
 print(arr.ndim)
 print(arr.shape)
 
+# Print the total number of elements in the array
+print(arr.size)
+
+#this prints all the array index with the elements
+for index, value in sp.ndenumerate(arr):
+    print("Index:", index, "Value:", value)
+
+    
