@@ -1,14 +1,15 @@
-import numpy as sp
+import numpy as np  
 
-brr = sp.array([1, 2, 3, 4, 5])
+#2d array
+brr = np.array([[1, 2, 3], [4, 5, 6]])
 #slicing
-print(brr[1:4])
-#accessing elements
 print(brr[0])
 print(brr[1])
-print(brr[2])
+print(brr[0][1])
+print(brr[1][2])
 
 #negative slicing
 print(brr[-1])
-print(brr[-2])
-print(brr[-3])
+print(brr[-2][-1])
+
+
