@@ -3,3 +3,4 @@ cars.sort(reverse = True)
 print(cars)
 cars.sort()
 print(cars)
+
