@@ -5,3 +5,7 @@ brr = np.array([[7, 8, 9], [10, 11, 12]])
 crr = np.concatenate((arr, brr), axis=0)
 print(crr)
 
+#split array
+drr = np.split(crr, 2, axis=0)
+print(drr)
+
