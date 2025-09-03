@@ -1,5 +1,8 @@
+#reshape new arr
+
 import numpy as np
 
-b = np.array(['Hello','World'],dtype='U')
-print(b.dtype)
-print(b)
+arr = np.array([[1, 2, 3], [4, 5, 6]])
+arr = arr.reshape((3, 2))
+print(arr)
+
