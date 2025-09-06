@@ -12,3 +12,6 @@ print(brr[2])
 print(brr[-1])
 print(brr[-2])
 print(brr[-3])
+
+#python program to demonstrate slicing and accessing elements of array
+#changes made
