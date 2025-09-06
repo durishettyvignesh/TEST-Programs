@@ -5,3 +5,4 @@ result = np.where(arr % 2 == 0)
 print(result)
 
 
+#python program to demonstrate the use of where() function in numpy
