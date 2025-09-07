@@ -9,3 +9,9 @@ print(crr)
 drr = np.split(crr, 2, axis=0)
 print(drr)
 
+#live changes made
+print("changes made")
+
+#added extension
+x = 5
+print(x+8)
