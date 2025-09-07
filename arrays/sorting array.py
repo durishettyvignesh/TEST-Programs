@@ -5,3 +5,8 @@ sorted_arr = np.sort(arr)
 print(sorted_arr)
 
 #python program to demonstrate sorting of array
+print("changes made")
+
+#added extension
+x = 5
+print(x)
