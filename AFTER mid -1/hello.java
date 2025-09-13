@@ -6,6 +6,6 @@ public class hello {
     }
 
     // This is a simple Java program that prints
-    // "Hello, World!" to the console.
-    hello  
+       // "Hello, World!" to the console.
+         
 }
