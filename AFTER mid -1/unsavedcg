@@ -1,0 +1,14 @@
+catch(IOException e){
+            e.printStackTrace();
+        }
+    }
+}
+
+try(FileWriter writer = new FileWriter("output.txt", true);
+    BufferedWriter bw = new BufferedWriter(writer)) {
+        bw.write("Appending new line to the file.");
+        bw.newLine();
+
+} catch (IOException e) {
+        e.printStackTrace();
+}
